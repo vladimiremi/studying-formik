@@ -1,2 +1,2 @@
-# studying-formik
+# studying
 Created with CodeSandbox
